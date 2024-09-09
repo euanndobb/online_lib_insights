@@ -7,4 +7,4 @@ Main features of the notebook:
 
 - open-source online library API utilised for basic querying.
 - pagination employed to prevent data truncation by server.
-- 
+- specific dataset retrieved is cleaned.
