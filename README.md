@@ -6,5 +6,5 @@ Code is in ipybn form, so should be easy to follow.
 Main features of the notebook:
 
 - open-source online library API utilised for basic querying.
-- Pagination employed to prevent data truncation by server.
+- pagination employed to prevent data truncation by server.
 - 
